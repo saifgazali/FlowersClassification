@@ -53,7 +53,6 @@ pycurl==7.43.0.6
 pydocstyle 
 pyflakes==2.2.0
 rsa==4.7.2
-Rtree==0.9.4
 ruamel-yaml==0.15.87
 scikit-image==0.17.2
 scikit-learn==0.24.1
