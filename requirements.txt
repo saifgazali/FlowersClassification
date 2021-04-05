@@ -11,6 +11,7 @@ async-generator==1.10
 atomicwrites==1.4.0
 attrs
 autopep8 
+auxlib
 Babel
 backcall==0.2.0
 backports.functools-lru-cache==1.6.1
