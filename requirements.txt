@@ -34,7 +34,7 @@ click==7.1.2
 cloudpickle
 clyent==0.2.0
 colorama==0.2.0
-conda==1.9.2
+conda==4.0.0
 conda-build==3.20.5
 conda-package-handling 
 conda-verify==3.4.2
